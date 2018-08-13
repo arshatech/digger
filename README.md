@@ -12,7 +12,7 @@ Digger give you some useful information of the website or ip address like: **NS,
 https://github.com/arshatech/digger
 
 ### How to use(Fa):
-...
+https://arshatech.com/blog/coding/python/python-digger-script-for-information-gathering/
 
 ### URL:
 https://arshatech.com
